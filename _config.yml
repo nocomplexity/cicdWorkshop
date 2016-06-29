@@ -2,10 +2,10 @@
 title: CI and CD with GitHub
 description: A demo blog
 email: training@github.com
-twitter_username: githubtraining
-github_username:  githubteacher
+twitter_username: maikelmardjan
+github_username:  nocomplexity
 baseurl:
-url: https://githubteacher-ci-cd-workshop.herokuapp.com
+url: https://mike-cicd-workshop.herokuapp.com/
 destination: site_content
 exclude: [ 'vendor' ]
 
